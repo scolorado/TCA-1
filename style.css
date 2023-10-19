@@ -1,3 +1,15 @@
+body{
+	background-color: black;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+h2{
+	color: white;
+	text-align: center;
+}
+
 .grid {
 	width: 606px;
 	height: 606px;
@@ -8,16 +20,10 @@
 .square {
 	height: 200px;
 	width: 200px;
-	border: solid black 1px;
+	border: solid white 1px;
 }
 
 .mole {
 	background-image: url("mole.jpg");
 	background-size: cover;
-}
-h1{
-	font-family: 'Luckiest Guy', cursive;
-}
-h2{
-	font-family: 'Luckiest Guy', cursive;
 }
