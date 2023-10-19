@@ -7,6 +7,7 @@ let result = 0
 let hitPosition
 let currentTime = 60
 let timerId = null
+let highScore = 0
 
 function randomSquare() {
   squares.forEach(square => {
