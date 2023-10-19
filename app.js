@@ -48,3 +48,6 @@ function countDown() {
 }
 
 let countDownTimerId = setInterval(countDown, 1000)
+
+
+//not in the video
